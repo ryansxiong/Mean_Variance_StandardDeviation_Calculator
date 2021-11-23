@@ -1,2 +1,2 @@
 # Mean_Variance_Standard_Deviation_Calculator
-![Screenshot (19)](https://user-images.githubusercontent.com/91089401/142961667-2eb56ce7-4537-4462-b454-e06b2430a887.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/91089401/142961702-6fe10c86-8fa1-49cd-87e0-ba4e73a63e84.png)
